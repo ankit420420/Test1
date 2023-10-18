@@ -1,7 +1,7 @@
 # Test1
 This is Test1 repository
 
-# ------------------------------------------USING GITHUB MANUALLY************************************************************  
+# *****************USING GITHUB MANUALLY*****************
 
 # To upload projects in GITHUB
     a.	Create GITHUB repository
