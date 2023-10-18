@@ -1,7 +1,7 @@
 # Test1
 This is Test1 repository
 
-# ******************************************USING GITHUB MANUALLY************************************************************  
+# ------------------------------------------USING GITHUB MANUALLY************************************************************  
 
 # To upload projects in GITHUB
     a.	Create GITHUB repository
@@ -10,7 +10,7 @@ This is Test1 repository
     d.	Uploading project to GITHUB
 
 
-# Creating GIT repository in GITHUB
+# Create GIT repository in GITHUB
     Step 1: Click on NEW in Github homepage
     Step2: It opens up a page to enter git repository details. 
         •	Enter the repository name
