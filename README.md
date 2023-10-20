@@ -65,11 +65,12 @@ This is Test1 repository
         •	git commit –m <”commit message”>
         •	git pull
     
-    If updated code is pushed from repository then follow steps 1,2,3 agin is same   
-   Order, else move to next step
+    If updated code is pushed from repository then follow steps 1,2,3 agin is same order, else move to next step
         
         •	git push
 
+    This pushes the project changes on github
+    
 -----------------------------------------------------------------------------------------------------------------------------
 
 # To clone a GITHUB repository
@@ -88,6 +89,12 @@ This is Test1 repository
 
 # To remove remote from project
     •	git remote remove origin
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+# To push after removing and adding back the remote origin                            
+    •	git push --set-upstream origin main
+
 
 ==========================================================================
 
@@ -182,19 +189,17 @@ This is Test1 repository
 -----------------------------------------------------------------------------------------------------------------------------
 
 # To update a project on GITHUB from VSCode
-
     a.	Click on Source Control option or Press Ctrl+Shft+G to open a left panel
     b.	Stage all the changes from the left panel by clicking on the + sign
     c.	Click on Commit button to commit all the changes. If will ask to enter the commit message. Enter the message and submit 
         on top right corner
     d.	Click on Publish branch in left panel
 
-    This pushes the current project on github
+    This pushes the project changes on github
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 # To clone a GITHUB repository from VSCode
-
     a.	Click on Source Control option or Press Ctrl+Shft+G to open a left panel and click on Clone repository (no folder should 
         be open at this point in VSCode)
                                               Or
@@ -217,5 +222,17 @@ This is Test1 repository
     a.	Click on Source Control option or Press Ctrl+Shft+G to open a left panel
     b.	Click on 3 dots beside Source Control label
     c.	Click on Remote->Remove Remote
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+# To push after removing and adding back the remote origin from VSCode                       
+
+    a.	Click on Source Control option or Press Ctrl+Shft+G to open a left panel
+    b.	Stage all the changes from the left panel by clicking on the + sign
+    c.	Click on Commit button to commit all the changes. If will ask to enter the commit message. Enter the message and submit 
+        on top right corner
+    d.	Click on Publish branch in left panel
+
+    This pushes the project changes on github
 
 ==========================================================================
