@@ -1,8 +1,6 @@
 # Test1
 This is Test1 repositoryfgfhgcvxc
-fiirst commmit
-second commit
-third commit
+first commit
 
 # *****************USING GITHUB MANUALLY*****************
 
